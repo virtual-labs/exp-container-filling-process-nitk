@@ -2,38 +2,147 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation and looks for changes in the field or return signal.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Normally-closed solenoid valve, uses a spring which presses the plunger tip against the opening of the ______ .The sealing material at the tip of the plunger keeps the media from entering the orifice  , until the plunger is lifted up by an  _________  created by coil.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Valve body, electrochemical",
+        "b": "Valve body, electromechanical",
+        "c": "Orifice , electromechanical",
+        "d": "Orifice , electrochemical"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Sensor for both point level deletion or continuous monitoring of solids and liquids :",
+      "answers": {
+        "a": "Ultrasonic",
+        "b": "Capacitance",
+        "c": "Optical interface and microwave",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "______________ is useful in applications involving the transportation of heavy or bulky materials.",
+      "answers": {
+        "a": "Conveyor system",
+        "b": "Chain system",
+        "c": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "If the mass of the garage shutter is 500kg, and the diameter of the shaft used to pull is 9.6cm. Calculate the torque required to pull the garage shutter? Assume g=10m/s2.",
+      "answers": {
+        "a": "Conveyor system",
+        "b": "Chain system",
+        "c": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The selection criteria for level sensor include _________.",
+      "answers": {
+        "a": "Physical phase(liquid, solid or slurry)",
+        "b": "Temperature, pressure ,chemistry",
+        "c": "Dielectric constant of the medium, specific gravity of medium",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Sensors for continuous level measurement of liquids:",
+      "answers": {
+        "a": "Magnetostrictive",
+        "b": "Magnetostrictive",
+        "c": "Air bubbler",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The measurement of level using level sensor can be _______.",
+      "answers": {
+        "a": "Continuous value",",
+        "b": "Point value",
+        "c": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Sensors which are available for point level detection of liquids are :",
+      "answers": {
+        "a": "Pulse-wave ultrasonic( Non-Invasive)",
+        "b": "Magnetic and mechanical float",
+        "c": "Pneumatic and conductive",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
