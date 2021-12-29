@@ -1,0 +1,97 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Solenoid valve is an ____________ device used for controlling ________ .",
+      "answers": {
+        "a": "Electrochemical, gas",
+        "b": "Electrochemical, liquid",
+        "c": "Electromechanical, gas and liquid",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Level sensor are used to delete the level of substances that flow, which include ________.",
+      "answers": {
+        "a": "Liquids",
+        "b": "Slurries",
+        "c": "Granular material",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Sensors which are available for point level detection of solids are :",
+      "answers": {
+        "a": "Vibrating point",
+        "b": "Rotating paddle",
+        "c": "Admittance type",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "A proximity sensor is a sensor able to detect the presence of nearby objects __________ .",
+      "answers": {
+        "a": "With physical contact",
+        "b": "Without physical contact"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The maximum distance that proximity sensor can detect is defined as__________  .",
+      "answers": {
+        "a": "Midrange",
+        "b": "Nominal range",
+        "c": "Both Midrange and Nominal range"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Push button is a kind of kind switch which is activated or deactivated the moment we press or depress it. It sends the signal momentarily when we press or depress it. ",
+      "answers": {
+        "a": "The above statement is false",
+        "b": "The above statement is true"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
