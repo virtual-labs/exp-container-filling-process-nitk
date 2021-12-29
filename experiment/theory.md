@@ -44,13 +44,13 @@ Sensors for continuous level measurement of liquids:
 For our experiment Point level detection of liquids is concerned.<br>
 
 ### Proximity sensor :
-<p style="text-align: justify;">A <b>proximity sensor</b> is a sensor able to detect the presence of nearby objects without any physical contact.<br>
+<p style="text-align: justify;">A <b>proximity sensor</b> is a sensor able to detect the presence of nearby objects without any physical contact.</p>
 
-A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation (infrared, for instance), and looks for changes in the field or return signal. The object being sensed is often referred to as the proximity sensor's target. Different proximity sensor targets demand different sensors. For example, a capacitive photoelectric sensor might be suitable for a plastic target; an inductive proximity sensor always requires a metal target.<br>
+<p style="text-align: justify;">A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation (infrared, for instance), and looks for changes in the field or return signal. The object being sensed is often referred to as the proximity sensor's target. Different proximity sensor targets demand different sensors. For example, a capacitive photoelectric sensor might be suitable for a plastic target; an inductive proximity sensor always requires a metal target.</p>
 
-The maximum distance that this sensor can detect is defined "nominal range". Some sensors have adjustments of the nominal range or means to report a graduated detection distance.<br>
+<p style="text-align: justify;">The maximum distance that this sensor can detect is defined "nominal range". Some sensors have adjustments of the nominal range or means to report a graduated detection distance.</p>
 
-Proximity sensors can have a high reliability and long functional life because of the absence of mechanical parts and lack of physical contact between sensor and the sensed object.</p>
+<p style="text-align: justify;">Proximity sensors can have a high reliability and long functional life because of the absence of mechanical parts and lack of physical contact between sensor and the sensed object.</p>
 
 ### Conveyor system :
 <p style="text-align: justify;">A <b>conveyor system</b> is a common piece of mechanical handling equipment that moves materials from one location to another. Conveyors are especially useful in applications involving the transportation of heavy or bulky materials. Conveyor systems allow quick and efficient transportation for a wide variety of materials, which make them very popular in the material handling and packaging industries. Many kinds of conveying systems are available, and are used according to the various needs of different industries. </p>
@@ -58,7 +58,7 @@ Proximity sensors can have a high reliability and long functional life because o
 ### Push button :
 <p style="text-align: justify;">Push button is a kind of a switch which is activated or deactivated the moment we press or depress it. It sends a signal momentarily when we press or depress it.</p>
 <center>
-<img src="images/TH/1.gif" style="width:474px; height:193px;"></center></br>
+<img src="images/TH/1.gif" style="width:474px; height:193px;"></center>
 
 ### Solenoid valve :
 <p style="text-align: justify;">A solenoid valve is an electromechanical device used for controlling gas or liquid flow.</p>
@@ -82,6 +82,6 @@ In the above figure,
 </ol>
 <p style="text-align: justify;">The above figure shows the basic components of a solenoid valve. The above picture represents a normally-closed, direct-acting valve. This type of solenoid valve has the most simple and easy to understand principle of operation.</p>
 
-##### Let us see its working:<br>
-The media enters the solenoid valve through inlet port and must flow through the orifice before continuing into the outlet port. The orifice is closed and opened by the plunger.<br>
+##### Let us see its working :
+<p style="text-align: justify;">The media enters the solenoid valve through inlet port and must flow through the orifice before continuing into the outlet port. The orifice is closed and opened by the plunger.<br>
 The valve pictured above is normally-closed solenoid valve. Normally-closed valve use a spring which presses the plunger tip against the opening of the orifice. The sealing material at the tip of the plunger keeps the media from entering the orifice, until the plunger is lifted up by an electromagnetic field created by the coil.</p>
